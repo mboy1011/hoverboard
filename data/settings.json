@@ -113,13 +113,13 @@
     "short": "Cagayan de Oro City, Philippines",
     "address": "Butuan - Cagayan de Oro - Iligan Rd, Cagayan de Oro, 9000 Misamis Oriental",
     "pointer": {
-      "latitude": 8.4966446,
-      "longitude": 124.629438,
-      "zoom": 5
+      "latitude": 8.496657,
+      "longitude": 124.629443,
+      "zoom": 15
     },
     "mapCenter": {
-      "latitude": 48,
-      "longitude": 8
+      "latitude": 8.496657,
+      "longitude": 124.629443
     },
     "description": ""
   },

@@ -153,17 +153,6 @@
       "link": "https://youtu.be/uoTg7qhRjKY"
     }
   },
-  "blog": {
-    "published": "Published",
-    "suggested": "Up next"
-  },
-  "latestPostsBlock": {
-    "title": "The latest news",
-    "callToAction": {
-      "label": "View all stories",
-      "link": "/blog/"
-    }
-  },
   "speakers": {
     "skills": "Skills",
     "previousYears": "Years",
@@ -193,6 +182,23 @@
   },
   "mapBlock": {
     "title": "Location"
+  },
+  "subscribeBlock": {
+    "callToAction": {
+      "description": "Get notified about the important conference updates",
+      "label": "Subscribe"
+    },
+    "yourEmail": "Your email",
+    "emailAddress": "Email Address",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "formTitle": "Get the latest updates, insights and news about GDG DevFest Ukraine sent to your inbox.",
+    "emailRequired": "Please enter a valid email address.",
+    "subscribe": "Subscribe",
+    "subscribed": "Subscribed",
+    "close": "Close",
+    "generalError": "Some error has occured. Please, try again later.",
+    "toast": "Successfully subscribed!"
   },
   "team": {
     "description": "We are a group of enthusiastic and dedicated IT professionals whose goals are to create and organize events that can help and collaborate students and professionals in Region 10 using Google's products and APIs<br><br>Like our <a href='https://fb.me/gdgcdo'>Facebook page</a> for more updates on our upcoming events, but for now let's enjoy DevFest!"
