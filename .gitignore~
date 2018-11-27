@@ -7,6 +7,5 @@ functions/lib/
 .temp/
 .vscode/
 .firebaserc
-.firebase/
 /appengine/dist/
 serviceAccount.json
